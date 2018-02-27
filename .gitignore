@@ -1,0 +1,12 @@
+.DS_Store
+.vscode
+.idea
+
+/dist
+reports
+packedZips
+node_modules
+npm-debug.log
+*.log
+node_modules.zip
+*.iml
